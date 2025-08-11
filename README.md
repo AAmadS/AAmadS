@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>PowerShell</b>
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [Active Directory Home Lab](https://github.com/AAmadS/ActiveDirectoryLab)
 
 <h2> 🤳 Connect with me:</h2>
 
